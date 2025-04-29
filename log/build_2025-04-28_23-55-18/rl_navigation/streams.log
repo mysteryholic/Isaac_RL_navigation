@@ -1,0 +1,38 @@
+[0.008s] Invoking command in '/home/kang/rl_navigation/build/rl_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kang/rl_navigation/build/rl_navigation -- -j12 -l12
+[0.040s] Invoked command in '/home/kang/rl_navigation/build/rl_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kang/rl_navigation/build/rl_navigation -- -j12 -l12
+[0.047s] Invoking command in '/home/kang/rl_navigation/build/rl_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kang/rl_navigation/build/rl_navigation
+[0.052s] -- Install configuration: "Release"
+[0.052s] -- Execute custom install script
+[0.052s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_CBAM.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_CBAM2.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_modify.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/__pycache__/TD_CBAM.cpython-310.pyc
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/__pycache__/lidar_preprocessing.cpython-310.pyc
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/__pycache__/potential.cpython-310.pyc
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/__pycache__/replay_memory.cpython-310.pyc
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/__pycache__/reward.cpython-310.pyc
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/lidar_preprocessing.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/model.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/path_visualize.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/potential.py
+[0.053s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/replay_memory.py
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/reward.py
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/train.py
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/utils.py
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/usd/train_model.usd
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/package_run_dependencies/rl_navigation
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/parent_prefix_path/rl_navigation
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/ament_prefix_path.sh
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/ament_prefix_path.dsv
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/path.sh
+[0.054s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/path.dsv
+[0.055s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.bash
+[0.055s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.sh
+[0.055s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.zsh
+[0.055s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.dsv
+[0.055s] -- Symlinking: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/package.dsv
+[0.062s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/packages/rl_navigation
+[0.062s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/cmake/rl_navigationConfig.cmake
+[0.062s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/cmake/rl_navigationConfig-version.cmake
+[0.062s] -- Up-to-date symlink: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/package.xml
+[0.063s] Invoked command in '/home/kang/rl_navigation/build/rl_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kang/rl_navigation/build/rl_navigation

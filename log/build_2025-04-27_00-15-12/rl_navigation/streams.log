@@ -1,0 +1,74 @@
+[0.007s] Invoking command in '/home/kang/rl_navigation/build/rl_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kang/rl_navigation/src -DCMAKE_INSTALL_PREFIX=/home/kang/rl_navigation/install/rl_navigation
+[0.047s] -- The C compiler identification is GNU 11.4.0
+[0.086s] -- The CXX compiler identification is GNU 11.4.0
+[0.092s] -- Detecting C compiler ABI info
+[0.146s] -- Detecting C compiler ABI info - done
+[0.150s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.150s] -- Detecting C compile features
+[0.151s] -- Detecting C compile features - done
+[0.153s] -- Detecting CXX compiler ABI info
+[0.214s] -- Detecting CXX compiler ABI info - done
+[0.219s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.219s] -- Detecting CXX compile features
+[0.219s] -- Detecting CXX compile features - done
+[0.221s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.350s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.409s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[0.410s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[0.436s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.440s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.445s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.453s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.464s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.481s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.489s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.500s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.512s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[0.536s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.538s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.606s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.627s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.659s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.665s] -- Looking for pthread.h
+[0.720s] -- Looking for pthread.h - found
+[0.720s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.775s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.776s] -- Found Threads: TRUE  
+[0.815s] -- Found rviz2: 11.2.16 (/opt/ros/humble/share/rviz2/cmake)
+[0.861s] -- Configuring done
+[0.865s] -- Generating done
+[0.866s] -- Build files have been written to: /home/kang/rl_navigation/build/rl_navigation
+[0.874s] Invoked command in '/home/kang/rl_navigation/build/rl_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/kang/rl_navigation/src -DCMAKE_INSTALL_PREFIX=/home/kang/rl_navigation/install/rl_navigation
+[0.876s] Invoking command in '/home/kang/rl_navigation/build/rl_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kang/rl_navigation/build/rl_navigation -- -j12 -l12
+[0.907s] Invoked command in '/home/kang/rl_navigation/build/rl_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/kang/rl_navigation/build/rl_navigation -- -j12 -l12
+[0.913s] Invoking command in '/home/kang/rl_navigation/build/rl_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kang/rl_navigation/build/rl_navigation
+[0.918s] -- Install configuration: ""
+[0.918s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/train.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/replay_memory.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/utils.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/reward.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_CBAM.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/lidar_preprocessing.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/path_visualize.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_modify.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/TD_CBAM2.py
+[0.919s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/scripts/model.py
+[0.920s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/usd
+[0.920s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/usd/train_model.usd
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/package_run_dependencies/rl_navigation
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/parent_prefix_path/rl_navigation
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/ament_prefix_path.sh
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/ament_prefix_path.dsv
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/path.sh
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/environment/path.dsv
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.bash
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.sh
+[0.938s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.zsh
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/local_setup.dsv
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/package.dsv
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/ament_index/resource_index/packages/rl_navigation
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/cmake/rl_navigationConfig.cmake
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/cmake/rl_navigationConfig-version.cmake
+[0.939s] -- Installing: /home/kang/rl_navigation/install/rl_navigation/share/rl_navigation/package.xml
+[0.941s] Invoked command in '/home/kang/rl_navigation/build/rl_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/kang/rl_navigation/build/rl_navigation
